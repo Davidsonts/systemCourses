@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'rails_admin', '~> 2.0'
 gem 'devise'
 gem 'cancancan'
+gem 'rails_admin_rollincode', '~> 1.0'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
