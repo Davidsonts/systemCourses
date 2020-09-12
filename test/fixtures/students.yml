@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  registration: MyString
+  name: MyString
+  genre: 1
+  birth: MyString
+  cpf: MyString
+  advisor: one
+  state: 1
+
+two:
+  registration: MyString
+  name: MyString
+  genre: 1
+  birth: MyString
+  cpf: MyString
+  advisor: two
+  state: 1
