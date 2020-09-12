@@ -7,3 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 User.create name: 'David', state: :active, kind: :manager, email: 'manager@gmail.com', password: 123456
 User.create name: 'Alan', state: :active, kind: :salesman, email: 'alan@gmail.com', password: 123456
+
