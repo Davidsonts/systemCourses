@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  date: 
+  kind: MyString
+  advisor: one
+
+two:
+  title: MyString
+  date: 
+  kind: MyString
+  advisor: two
